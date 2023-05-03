@@ -1,12 +1,14 @@
 ## Introduction
-- People working with IT(me included) probably have heard this phrase after you gave a due date to the product team:
-But your team is Agile, that doesn't mean this task should be finisher faster? 
+People working with IT(me included) probably have heard this phrase after you gave a due date to the product team:
+> But your team is Agile, that doesn't mean this task should be finisher faster? 
 
-To be honest they aren't wrong, Agile method it's a approach to increase the delivery  of the tasks, even Attlasian mention that in they website: 
-> - Agile is an iterative approach to project management and software development that helps teams deliver value to their customers **faster** and with fewer headaches.
+To be honest they aren't wrong, Agile method it's a approach to increase the delivery faster than others methodology, even Attlasian mention that in their website: 
+> Agile is an iterative approach to project management and software development that helps teams deliver value to their customers **faster** and with fewer headaches.
 
-But Agile has a proccess, and that proccess needs to be respect by all people involved on the project to be agile then faster, if this proccess isn't respect the company turns to not be Agile and maybe not Faster either.
-That's what I want to explain in this article, why is important to understand and respect the process to be Agile then you start to become Faster.
+But in this article I'll try to explain why being Agile not necessary means you finish all project faster, and the great characteriscs for the company have a successful Agile culture.
+
+<!-- But Agile has a proccess, and that proccess needs to be respect by all people involved on the project to be agile then faster, if this proccess isn't respect the company turns to not be Agile and maybe not Faster either. -->
+<!-- That's what I want to explain in this article, why is important to understand and respect the process to be Agile then you start to become Faster. -->
 
 <!-- But take a proccess to have a Agile culture, and this proccess needs to be respect, after the culture is finish the company starts to be faster. And that's what I want to explain in this article, why is important to be Agile first before being Faster. -->
 
@@ -14,7 +16,7 @@ That's what I want to explain in this article, why is important to understand an
 To start I want to clarify what the word agile means, by Cambrigde means:
 > - able to move your body quickly and easily
 
-So instead other methods which needs to plan all project and then development, Agile separating the project into short periods, makes the project quicker and easy to adapt when needs changes or failures while keeping running the project. 
+So instead other methods which needs to plan all project and then development, Agile separating the project into short periods makes the project quicker and easy to adapt when needs changes or failures while keeping running the project. 
 
 <!-- The same definition the word has.  -->
 
@@ -61,21 +63,29 @@ One of the plays choosen by the coaches could be the running play, basicly the Q
 In order to the play be successful the communication needs to clear and everyones understand the play, if not will be a easy task to defenders stop the play.
 
 First I'll show a nonsucessful running play:
+
 ![](./failed_run_play.gif)
 
-This example could be caused by a bad plan or lack of communication between the team, because the defender on the left was free to stop the runner even with 2 players close to him.
-The result of this play is the runner was stop early resulting into a unsucessful sprint.
+In this play the left defender was free to stop the runner to start the play.
+The reason of the defender being free could be:
+- Bad plan choose by the coaches
+- Lack of communication with coaches or players
+
+To any of this reasons the cause is the same, the runner was stopped early resulting into a unsucessful sprint.
+
+However this example is a successful sprint to the runner:
 
 ![](./sucessful_run_play.gif)
 
-In this case the communication went well, everyones understood their jobs resulting into a great start of sprint for the runner. So after the runner wasn't stop by any defender at the beginning now is his duty to be Agile to change directions to avoid the defender, while keep sprinting towards the goal.
+This play everything went well, everyone understood their dutys resulting into a great initial of the defenders and a awesome start for the runner.
+Now is up to the running-back be Agile to change directions avoiding defenders while keep running towards his goal(endzone) and celebrate a great sprint.
 
 ## Conclussion
+In the NFL field the running-back are the fastest players on the field but being faster doesn't mean being the best player.
 
-The running-back are the fasters player on the NFL game, but at NFL isn't only being faster to achieve their objective.
-Is the same inside the company, you can have the fastest development team but like a running-back running to a endzone, to finish a  project is not a straight line, you need to have a great plan and communication to avoid some stops at the beginning of the project then starts to be Agile for future change directions, while still running a sprint directly towards the end of the project.
+Is the same inside the company, you can have the fastest development team but like a running-back running towards a endzone, developing a project ins't a straight line, the team needs to have a great plan and communication to avoid a block at the start of sprint, then starts to be Agile for late change directions while still running a sprint towards the goal.
 
 So to answer the question.
 > But your team is Agile, that doesn't mean this task should be finisher faster? 
 
-Yes the team is Agile, but it means when the project needs when a problem happens they will solve while still running fast.
+Yes the team is Agile, but that means when the project need a change of direction the team will be able to do while still running fast.
