@@ -28,8 +28,7 @@ https://www.youtube.com/watch?v=-g8mxTu-4KQ
 https://www.youtube.com/watch?v=uO964966RXY
 
 - Examplo of no sucessuful run: 0:45
-https://www.youtube.com/watch?v=jnTFAbx3AAM
-
+https://gifrun.com/youtube/?v=vHl30xNWF7o 3:09
 
 - Scrum image
 https://www.scrum.org/resources/what-is-scrum
