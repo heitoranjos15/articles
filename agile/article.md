@@ -5,60 +5,73 @@ People working with IT(me included) probably have heard this phrase after you ga
 To be honest they aren't wrong, Agile method it's a approach to increase the delivery faster than others methodology, even Attlasian mention that in their website: 
 > Agile is an iterative approach to project management and software development that helps teams deliver value to their customers **faster** and with fewer headaches.
 
-But in this article I'll try to explain why being Agile not necessary means you finish all project faster, and the great characteriscs for the company have a successful Agile culture.
+But in this article I'll try to explain why being Agile not necessary means you finish all project faster, instead means the company can give delivery small results faster resulting into more adapability for future changes.
 
-<!-- But Agile has a proccess, and that proccess needs to be respect by all people involved on the project to be agile then faster, if this proccess isn't respect the company turns to not be Agile and maybe not Faster either. -->
-<!-- That's what I want to explain in this article, why is important to understand and respect the process to be Agile then you start to become Faster. -->
+Agile is a mindset that needs to be comprehend by all people involved on the project in order to work, if a company tries to be Agile but prioritize finish everything fast avoiding some principles of Agile, the project will not be agile when a change will be needed and probably will not be finished fast.
 
-<!-- But take a proccess to have a Agile culture, and this proccess needs to be respect, after the culture is finish the company starts to be faster. And that's what I want to explain in this article, why is important to be Agile first before being Faster. -->
+What I want to clarify in this article is the impacts of avoiding Agile principles, if you want more details about the Agile manifesto and mindset my recommendation is to read this article: https://kwan.pt/blog/applying-the-agile-manifesto-to-build-an-agile-mindset.
 
 ## Meaning of Agile
-To start I want to clarify what the word agile means, by Cambrigde means:
+So to start I want to clarify what the word agile means.
+By Cambrigde:
 > - able to move your body quickly and easily
 
-So instead other methods which needs to plan all project and then development, Agile separating the project into short periods makes the project quicker and easy to adapt when needs changes or failures while keeping running the project. 
+That's what agile means by definition, but how the company can be turned into a Agile company?
 
-<!-- The same definition the word has.  -->
+Agile has a lot of framework that can helps the company to be turn into, but for this article I'll use as a example the Scrum framework.
 
-Now, how Agile does that? 
-Agile has a lot of options to do that, but for this article I'll use as a example Scrum.
+So let's starts talking about how Scrum works and can help the company have a Agile mindset.
 
-Scrum has cycles with few steps that needs to be repected in order to be Agile and stay Fast on development delivery of the project.
+## Procceses of Agile
+Most of IT projects isn't a straight line, failures will happens or some parts will be changed in the long of the development, but with Scrum the project can be more adaptable to solute this problems.
 
-## Procces of Agile
-So Scrum has a cycle that repeats after the actual cycle is finished, and all cycles has this steps:
+Because Scrum tries to separate the project into small pieces that can be planned and delivered into short period of time (2, 3, 4 weeks), with this characterisc it's brings to the project more adapability to change the project while still developing the project.
+
+![](scrum_steps.jpg)
+
+On Scrum the team have a team structure of:
+- Product Owner
+- Developer
+- Scrum Master
+
+Every project has a product backlog tasks, the product backlog are the small pieces that will be develop into the short period of time.
+
+The team has a member encharged to manage and create the product backlog is the Product Owner, his responsibilities is to understand the customer and business requirements separate into tasks and add to the product backlog, and to define the value and goal for each sprint.
+
+Developers are the members that will move the tasks and build the project to delivery for the customers, the members could be programmers, designers, writers or QA.
+
+Scrum Masters are the members to train the members about the Scrum methodology, he can help the Product Owner to define the value and guide the Developers to delivery the sprint value.
+
+Scrum has a cycle of steps called Rituals that need to be followed:
 - Planning
 - Sprint
 - Retro
 
-I'm not going deep into explain all the steps here, but in case you need to know more about the proccess here some sugestions:
+Planning is a meeting normally presented by the product owner to present the sprint backlog, the Product Owner take tasks from the product backlog and describe each of the tasks and goal for the sprint to the team, the Developers and Scrum Master needs to understand the tasks and bring if has something missing or a block that result into not finish the task to the discussion. After all tasks was described and discussed the team have a agreedment about the tasks and goals for that sprint.
 
-The goal in this article is to explain why this steps needs to happen exactly was planned to be and need to be respect. 
+Then the Sprint starts, here the developers get their tasks to develop. On this step the team reunite every day to a call Daily it's a quick meeting to the team give a update about their tasks, with that meeeting the team can be more agile to change their plans to reach their goals of the current sprint, because it's a daily meeting update the team can see quickly if a task will take more time so they can move more people working in that particualy tasks or desprioritize other low priority tasks and still reach the main goal of that sprint.
 
-SCRUM always starts with a planning meeting, the product team presents some tasks from the project to the development team. The goal is to understand the tasks, discuss about the implementation, possible problems that can block the task to be finish.
-Then after the Planning is over and all tasks is choose, the sprint phase starts. Sprint phase is when the developer starts develop the tasks and running to the goal complete all tasks planned in the short pre determited time.
+When the limit of the short period is over, the team reunites again to present their tasks and values delivered in that sprint, its a meeting to discuss about the current sprint too it's a great opportunity adjust their mistakes and continue what is going well to the next sprint.
 
-When the limit of days of the sprint is over, the team reunite again to talk about what is done, what isn done.
+Then after the Retro, a new cycle starts with new Planning and the same steps.
 
-Then the cycle restarts again with the planning.
+This steps bring to the project a flexibility to change the project ideas, because after each short period the stakeholders and customers can see the smal piece of the project so has quick feedback about the project, and if needs to change something the Product Owner just put a new task on the product backlog, and the development team can starts to work on the next sprint.
 
-This cycle requires a great communication by the team members and couldnt have interference in the steps to order to work well.
+With a well coordinate team, the company can have a fast and agile sprint on the same time. 
+But in order to have that, the team needs to have a great communication between the members and the company needs to understand the process and not intefer the sprint goals while the team still running a sprint.
 
-Before the Planning the product owner needs to receive the right information from the stakeholder about the project, then he needs to separate into tasks and describe all details correctly.
+Those inteferations can disturb the communication between the team members, this could result into the project development focusing into a straight line to finish fast, instead of being a adapable to changes. That could cause future blocks or failures on the sprint phase with that resulting into a nonsucessful sprint.
 
-After the planning starts the developers need to know about the tasks he will be encharged, and during the sprint they should be able to run free with the tasks without interruptions into the process. If the project needs a new feature or a change that needs to wait to the next cycle starts.
-
-I'll explain the importance of this steps and why needs to be respect in order to became Agile while still Fast.
-
+To explain what I mean by the impact of intefer the team members while still running a sprint I'll ilustrate using a NFL play called running play.
 
 ## Example using NFL
 The name SCRUM origin is from a sport called Rugby, on Rugby the SCRUM is called after some infringement of the Laws, the team reunites and the play is restarted.
 
 As Agile, NFL is a sport based on Rugby, the goal of both sports is to advance into enemy field and score a touchdown or a field goal. The main diferrence is instead of wait some infringement on NFL after all plays the teams reunite. 
 
-All plays on NFL starts with the coaches planning the play and informs to the Quarterback what play the team has to run, then the Quarterback informs to all players on the field what is the play, formation and directions, then the players get set at their positions and the play starts.
+All plays on NFL starts with the coaches planning the play and informs to the Quarterback what play the team has to run, then the Quarterback informs to all players on the field what will be the play, formation and directions, then the players get set at their positions and the play starts.
 
-One of the plays choosen by the coaches could be the running play, basicly the Quarteback gives the ball to the running-back and him has to wait the blocks to open a free open space to start sprint towards the goal.
+One of the plays choosen by the coaches could be the running play, basicly the Quarteback gives the ball to the running-back and him has to wait the blocks to open a free open space to start run the sprint towards the goal.
 
 In order to the play be successful the communication needs to clear and everyones understand the play, if not will be a easy task to defenders stop the play.
 
@@ -70,22 +83,24 @@ In this play the left defender was free to stop the runner to start the play.
 The reason of the defender being free could be:
 - Bad plan choose by the coaches
 - Lack of communication with coaches or players
+- Maybe the team wasn't expect a defender there
 
-To any of this reasons the cause is the same, the runner was stopped early resulting into a unsucessful sprint.
+To any of this reasons the result is the same, the runner was stopped early resulting into a unsucessful sprint.
 
-However this example is a successful sprint to the runner:
+Now a example of a successful play:
 
 ![](./sucessful_run_play.gif)
 
-This play everything went well, everyone understood their dutys resulting into a great initial of the defenders and a awesome start for the runner.
-Now is up to the running-back be Agile to change directions avoiding defenders while keep running towards his goal(endzone) and celebrate a great sprint.
+This play everything went well, everyone understood their responsibilities resulting into a great initial blocks of defenders resulting into a great path for the running-back starts a great sprint.
+
+After the running-back pass the blocks still some defenders left, but now is his responsibility to be Agile and change direction to avoid the defenders while still keeping runnning fast towards his goal(the endzone) and celebrate a great sprint with his team mates.
 
 ## Conclussion
 In the NFL field the running-back are the fastest players on the field but being faster doesn't mean being the best player.
 
-Is the same inside the company, you can have the fastest development team but like a running-back running towards a endzone, developing a project ins't a straight line, the team needs to have a great plan and communication to avoid a block at the start of sprint, then starts to be Agile for late change directions while still running a sprint towards the goal.
+Is the same inside the company, you can have the fastest development team but like a running-back running towards a endzone, but like I said early in this artictle IT Projects ins't a straight line, the team needs to have a great plan and communication to avoid the blocks at the start of sprint, then the developer can starts to build a  Agile project to be prepare for late change directions while still running a Fast sprint towards the goal.
 
 So to answer the question.
 > But your team is Agile, that doesn't mean this task should be finisher faster? 
 
-Yes the team is Agile, but that means when the project need a change of direction the team will be able to do while still running fast.
+Yes the team is Agile, but that means is we are building a project that when will need a change of direction the team will be able to do while still running fast towards the finish.
