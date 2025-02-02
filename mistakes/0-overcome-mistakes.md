@@ -1,94 +1,133 @@
-## The secret value of an mistake
+# Turning Mistakes into Triumphs: Lessons from Sports Legends for Success
 
-## How to win with your mistakes
+Discover the hidden power of mistakes and learn how to turn setbacks into success. Explore lessons from sports legends like Michael Jordan and Tom Brady, whose resilience and focus transformed failures into historic victories. Whether in life or work, this article reveals how embracing mistakes can lead to greatness.
 
-## Introduction 
-When you do an mistakes, what's your reaction? Mine was hardful, usually I let the mistake hit my confidence and let me thinking I was capable enough, the whole process and all the things I did was a failure because of one mistake.
+---
 
-Watching sports competition and seing the most sucessful athletes carrer made me change this thinking, specially about what means failure. My biggest mistake was letting my mistakes define who I was and call myself as a failure. However I looked at some athletes sucessful and they did mistakes in big moments too, but they still are reconized as sucessful persons. 
-Michael Jordan as example has this quote:
+## The Power of Mistakes
 
-- “I’ve missed more than 9,000 shots in my career, I’ve lost almost 300 games. Twenty-six times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.”
+When you make a mistake, what’s your reaction? For me, mistakes used to hit my confidence hard. They made me question whether I was capable of achieving my goals. It didn’t matter how much I had accomplished before—my mistakes always felt louder than my successes.
 
-So the one of the most sucessful baskeball athletes had to make a lot of mistakes to be sucessful, this was totally the reverse I was thinking. 
-However what about the others players? I'm sure more players had more shots and games missed than him, why they didn't succeed? What makes the mistakes by Jordan being different by the others? What is the secret?
+As a sports enthusiast, I spend most weekends watching games. Over time, I noticed how the most successful athletes dealt with challenges in their careers. They all had their share of failures—missed opportunities, bad decisions, and losses. Yet, these moments didn’t define them. Instead, they found ways to grow stronger from their mistakes.
 
-I found the answer by watching another athlete from another sport: Thomas Edward Brady, most known as Tom Brady, the most successful player in the NFL.
-Specifically in one of his most historical wins, the Superbowl LI.
+Take **Michael Jordan**, for example. Widely regarded as the greatest basketball player of all time, Jordan won six NBA titles and never lost in the Finals. Yet, when reflecting on his success, he shared these powerful words:
 
-## Super bowl Game
-The Super Bowl is the final game in the NFL, in the NFL it has 2 divisions. This game reunites the best teams of these divisions to decide the champion.
-The teams of the year 2017 were Patriots the winner of AFC division against Falcons the winner of NFC division.
+> "I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games.  
+> Twenty-six times, I’ve been trusted to take the game-winning shot and missed.  
+> I’ve failed over and over and over again in my life. And that is why I succeed."
 
-The Patriots were led by Brady as the quarterback and Bill Bellichick as the coach, they already had won 4 titles together at that time.
+Even the most successful basketball player of all time had to fail repeatedly to achieve greatness. This completely shifted the way I thought about mistakes.
 
-The Falcons was a surprise team, they never won a title, however they Quarterback Matt Ryan was elected as the best player of the league, and the head coach Dan Quinn had already beaten the Patriots in a past Super Bowl when he was an assistant coach in the Seattle Seahawks team.
+But then I wondered: **what about the other players?** Many have surely missed more shots and lost more games than Jordan. Why didn’t they succeed? What makes Jordan’s mistakes different? What’s the secret?
 
-## Start of the game
-The game started tough for Brady's team, the attack unit wasn't capable of making many plays to score, on the other side the Falcons attack was able to score 2 times. 
+I didn’t get to see Michael Jordan play in real time, but I found the answer by watching another legendary athlete: **Tom Brady**, the most successful player in NFL history. His story, particularly his performance in **Super Bowl LI**, offered a powerful lesson about turning mistakes into triumphs.
 
-Losing early in the game forced the Patriots to take more risks with his plays to try to lower the score difference, that lead Brady to do mistake:
+---
 
-------GIF
+## The Super Bowl Game
 
-This was a wrong decision by Brady, he tried to make a pass to a player covered by 2 defenders, one of the defenders was already prepared to defend making him anticipate the pass and intercept the ball.
+The **Super Bowl** is the pinnacle of the NFL season, where the AFC and NFC champions face off to crown the league’s victor. In 2017, the **New England Patriots**, led by quarterback **Tom Brady** and coach **Bill Belichick**, faced the **Atlanta Falcons**, an underdog team led by league MVP **Matt Ryan** and coach **Dan Quinn**.
 
----GIF MISS TACKLE
+### The Biggest Mistake
 
-Brady tried to stop him advancing with the ball to prevent the score, but he failed again. The Falcons defense scored and increased the score difference to 21 points(3 scores).
+The game didn’t start well for the Patriots. The Falcons' defense was prepared to stop Brady and his teammates, while their offense managed to score two touchdowns in the first half.
 
-The game in the begging of the 3 period of 4 was 28 x 3, after the score from Atlanta the broadcast was informing no other past team had overcome an 25 points deficit in the superbowl after. I was in a bar watching the game and still remember peoples saying bad comments about Brady and he already had lost the game, but I was looking at Brady and he never appeared that his confidence was lost.
+This left Brady in a tough situation. With only a few minutes left in the half, he knew his team needed to score to build momentum for the second half. However, during this critical drive, he made a costly mistake:
 
-He was trying to keep his teammates with confidence and remembering the game still happening.
+![Brady's Mistake](./brady_interception.gif)
 
-Thinking about this situation, in the past I would act different than Brady, I would probably be scared of what of other people are thinking about my mistakes and to quit from the game to not make more mistakes, that would made me lose the game.
+In a high-pressure moment, Brady attempted a pass to a teammate covered by two Falcons defenders. One of the defenders intercepted the ball and sprinted toward the end zone. **Brady was the last line of defense but failed to stop him from scoring.**
 
-Well Brady did the reverse and that's why I'm writing this article. He choose to leaded his team to overcome the biggest score deficit in an Superbowl, after the game Brady was selected as the best player in the field even after the mistake, with this title he surpassed his former child idol Joe Montana and was the only Quarterback with 5 title in his name.
+![Brady's Reaction](./brady_interception_2.gif)
 
-## The end of the game
+This mistake not only gave the Falcons more points but also presented a psychological hurdle. Yet, Brady displayed remarkable composure, returning to the field to secure a field goal before the half ended.
 
-Brady once said he didnt care about public opinions, the only thing he cared is his opinion and his teammates, that's why even after his mistakes he was the guy talking to his teammates to still focus in the game because isn't over yet, he answer after his mistake was to not led that define him being a looser.
+---
 
-At the end he was selected as the best player of the game, people in the broadcast was talking how incredible he was in the comeback, after his mistake each possession he had he leaded his team to score.
+## The Biggest Deficit in History
 
+In the second half, the Falcons' offense struck again on their second possession, extending their lead to an imposing **28-3**. At that point, the broadcast highlighted a sobering fact: **no team had ever overcome a 25-point deficit in the Super Bowl.**
 
-## Overcoming every situation
-- Making mistakes is human, living with the mistake is not. 
+Despite the overwhelming odds, **Brady didn’t give up**. After the Falcons scored, he stepped in front of his teammates and delivered a motivating speech.
 
-Going back to my house I wondered, how Brady managed to overcome everything was going through. It was an difficult situation, but he always never looked as a looser in that game.
+![Brady's Speech](./brady_motivation.gif)
 
-But if you figure out how american football is it's try to simulate a real life experience into an game, let me explain how:
+The situation didn’t shake his confidence—in himself or in his team. Brady knew there was still time to fight back and seize victory, and the only way to come back was to **be better on the next play**.
 
-American football is a game based in cycles, each cycle the opposse teams have different roles one as the attack and the other as defense, after a score or you are out of changes to advance the field the attack team loose the possesion of the ball to the opose team.
+Inspired by his leadership, the Patriots answered with a touchdown. However, another mistake followed—the team failed to convert the extra point, leaving the score at **28-9** and the deficit still daunting.
 
-So when Brady made the mistake of the interception, he made his team lose one possesion and let the other team to score. That happens in our lifes too, sometimes we do a mistake and that have some consequences to someone as an example an job interview.
-Being in a process to get an job normally have more than 1 candidate for the job, if you do an mistake or is not at your best during the process, it probably favors another person to get the job and vice-versa, that's how the cycle works.
-Now after you failed, what you do?
+---
 
-For Brady the answer was to go foward to the next play, he was frustaded with his play and the way the game was going in favor of Atlanta Falcons, however he really want to win the game and only being frustaded would not help to win, so he quickly reseted his mood to learn from the mistake and be prepared to the next play.
+## The Comeback
 
-## They dont care about your mistakes
-- Somebody gotta be watchin' you, but no one is. It's kinda crazy life could be this simple -- Mac Miller
+Fueled by Brady’s leadership, the Patriots began to chip away at the deficit. Play by play, they advanced down the field, scoring critical touchdowns while their defense stopped the Falcons’ once-dominant offense.
 
-Other feeling we have after the mistake is made is how the public opinion will think of us, for that I'll use Michael Lombardi words:
--  Nobody will care about you got fired, nobody cares. What matters from this point forward is how do you do an autopsy on what happened, how do you understand what went down and make notes and you learn.
-Michael Lombardi is an former NFL GM, he won 2 Superbowl titles in his carrer at 49ers and Patriots (during Brady era), that quote is from his podcast GM Shuffle when he was commenting about his son who got fired by the Raiders.
+With under a minute left in regulation, Brady orchestrated a drive that ended with a touchdown and a game-tying two-point conversion, forcing overtime—the **first in Super Bowl history**.
 
-Lombardi points is true, and to prove that I can bring Brady situation again. When he was losing the game I remember a lot of critcism of his mistakes, but looking at Brady he wasn't affect by the public opinion because he knows the only way to prove then wrong is to get better for the next plays only, so after the mistake he analyse his play with the coaches see what he need to improve for the next plays, then he got better during the game and was selected as the best player on the field. So at the end no one was talking about the bad plays only in how he managed to overcome everything.
+---
 
-What really matters for people is how you act after the mistake happens, if you still being cursed by the mistakes and act that really ruined your mood, well that will be the public opinion from yourself, however if you learn and overcome from that the opinion will be different. It's never about the mistake is about your own actions. 
+## The Victory
 
-## Conclusion
-That's the secret and what mades Brady and Jordan mistakes different from the others, they are never scared of taking risks even if that risk will lead him to a mistake, because they know it's a part of the process and will only made them grow from it. That doesnt mean they made mistakes on purpose to learn, but they will not avoid to try with fear of a failure.
+In overtime, the Patriots won the coin toss, giving Brady the ball. He methodically led his team down the field, setting the stage for running back **James White** to score the game-winning touchdown.
 
-Failure means a weakness on yourself, and if you have the mentality to understand mistakes makes part of the process you probably will learn from it and have less mistakes in the future, resulting into more success, obviously being sucessful as Brady and Jordan needs more than that, being a winner in the sports requires a lot of more things, but I have sure if they don't have this mentality they would have this success.
+The Patriots completed the greatest comeback in **Super Bowl history**, winning **34-28**.
 
-If you watched or hear about this game you probably heard about how incredible the overcome was, but no one remembers the mistakes he had in the game earlier.
+---
 
-I bring the stories of Tom Brady and Jordan as a example because their are famous sports player, but even they have losses. And the people who lost some final games, had won some games to be there and that doesn't mean they react differently from Brady and Jordan with they mistakes, so no one can have a garantee of not loosing, however I can garantee with this mentality we can win with the losses and mistakes, and that's what makes a winner.
+## A Historic Achievement
 
-With this mentality you can win against the mistakes you did.
+Brady’s performance in **Super Bowl LI** was nothing short of legendary. He threw for a record-breaking **466 yards** and was named the game’s MVP. This victory marked his **fifth Super Bowl title**, surpassing his childhood idol, **Joe Montana**, and solidifying his place as one of the greatest athletes in sports history.
 
-In case you repeat the mistakes, well probably this is saying you aren't capable of doing that, but now you have sure, you can adapt yourself to avoid being on these situations.
+---
 
-So I think that's what makes the interceptions, missed shots and failing in the clutch momements Brady and Jordan did different from the others, even when they fail they found a way to win in that situation, that's what feeds the winner only wins even when they fail.
+## Overcoming Every Situation
+
+> "You make your mistakes, your mistakes never make ya.  
+> I'm too obsessed with goin' down as a great one.  
+> But if you wait too long, they gon' find someone to replace ya."  
+> — *Mac Miller, "Goodspeed"*
+
+After watching Brady’s comeback, I wondered how he managed to overcome such a difficult situation. **He never looked defeated in that game.**
+
+I realized the answer lies in how American football reflects real-life experiences.
+
+### The NFL as a Life Lesson
+
+Like in life, the **NFL is a game of cycles**. Each team gets opportunities to attack and defend. As the leader of the Patriots' offense, Brady’s mistake handed the Falcons a significant advantage. Similarly, in life, when we’re pursuing a goal, the path isn’t always smooth—mistakes happen, setting us back and making success feel even more distant.
+
+Brady, however, had a **clear goal**: to become the most accomplished player in American sports history, surpassing Michael Jordan’s five NBA championships. To achieve that, he couldn’t afford to lose this game. 
+
+After the mistake, he didn’t dwell on it or the daunting score deficit. Instead, he quickly shifted his focus to **the next play**.
+
+What set Brady apart wasn’t just his skill—it was his **resilience**. His ability to let go of setbacks, recalibrate, and focus on the ultimate goal made him extraordinary.
+
+---
+
+## They Don’t Care About Your Mistakes
+
+> "Somebody gotta be watchin' you, but no one is.  
+> It's kinda crazy that life could be this simple."  
+> — *Mac Miller*
+
+During halftime, I wondered how Brady managed **public criticisms** after his performance. I watched this game at a bar in Brazil. I remember people in that bar criticizing him, making bad comments about his performance. The atmosphere in the stadium was surely worse.
+
+We can gain insight from someone who shared the same Patriots culture as Brady: **Michael Lombardi**, a former NFL General Manager. In his podcast, Lombardi reflected on a lesson he shared with his son after he was fired from an NFL team:
+
+> "Nobody will care about you getting fired. Nobody cares.  
+> What matters from this point forward is how you do an autopsy on what happened,  
+> how you understand what went down, make notes, and learn."
+
+Brady didn’t let public opinion distract him. **He focused on learning and improving.** In the end, those critics had to change their opinion because Brady made a perfect comeback and was named the best player of the game.
+
+---
+
+## Final Thoughts
+
+If there's one takeaway from this article, let it be this: **if you have a goal, you can’t be afraid of making mistakes**. That’s just how life works. On the path to success, **setbacks are inevitable**—they’re life’s way of testing whether you’re ready to achieve your dreams.
+
+Both **Brady and Jordan** wanted to be the best in their sports. To get there, they faced countless challenges, losses, and criticisms. But instead of letting those moments define them, **they used each as an opportunity to grow stronger.**
+
+They found ways to **turn defeat into victory**. That’s what made them extraordinary.
+
+So, if you’re going through a tough time, maybe life is testing you. **And if it feels like the biggest challenge you’ve ever faced, take it as a sign—because a historic victory might be just around the corner.**
+
