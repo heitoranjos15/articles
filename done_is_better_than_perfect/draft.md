@@ -27,6 +27,7 @@ Today in an instant the author can fixed a news in his website, so the need of b
 ## Perfection is just an ilusion, consitency is real
 Nowadays we can just sell perfection as ilusion, becaus even the most sucessfull technlogies have some problems to fix it, nothing is totally perfect.
 Gmail was in beta version for 5 years and people were using, and even now it's notin beta still receives some updates accordingly to the feedback from users. You can check the updates they do for the app as example:
+![](gmail_release.gif)
 
 Google realized now we dont need to wait for days to get a fix so chasing perfection is not need anymore, you can get things done and fix along the way. 
 

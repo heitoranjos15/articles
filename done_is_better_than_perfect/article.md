@@ -36,6 +36,8 @@ Nowadays we can just sell perfection as ilusion, because even the most successfu
 Take Gmail as an example. It remained in beta for five years, yet millions of people used it daily. Even today, long after leaving beta, it continues to receive regular updates based on user feedback.
 You can check in their realease updates:
 
+![](gmail_releases.png)
+
 Google understood that waiting for a “perfect” product is unnecessary. Instead of chasing perfection, they focused on continuous improvement—getting things done and refining them along the way.
 
 ## Fear of mistake
